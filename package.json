@@ -1,0 +1,29 @@
+{
+  "name": "sensei-collapsible-content",
+  "version": "1.0.0",
+  "description": "Collapsible Content for Sensei LMS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev gulp package",
+    "prod": "NODE_ENV=prod gulp package",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnapep/sensei-collapsible-content.git"
+  },
+  "author": "Donna Peplinskie",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/donnapep/sensei-collapsible-content/issues"
+  },
+  "homepage": "https://github.com/donnapep/sensei-collapsible-content#readme",
+  "devDependencies": {
+    "del": "^4.1.1",
+    "gulp": "^4.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-wp-pot": "^2.3.5",
+    "gulp-zip": "^4.2.0"
+  }
+}

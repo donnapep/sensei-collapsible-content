@@ -1,0 +1,37 @@
+.module .module-status {
+	right: 60px;
+}
+
+.module .module-header h2 {
+	display: inline-block;
+	font-size: 1.8em;
+	line-height: 1;
+	padding-bottom: .6em;
+	padding-top: .6em;
+}
+
+.module-header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.module-header .collapsible {
+	float: right;
+	font-family: FontAwesomeSensei;
+	font-size: 1.8em;
+	line-height: 1;
+	padding: .6em 20px;
+}
+
+.module-header .collapsible:before {
+	content: '\f106';
+	display: inline-block;
+	transition: all 0.25s;
+}
+
+.module-header.active .collapsible:before {
+	-webkit-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
