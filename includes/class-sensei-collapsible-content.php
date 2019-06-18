@@ -99,7 +99,7 @@ final class Sensei_Collapsible_Content {
 		}
 
 		// JavaScript
-		wp_enqueue_script( 'sensei-collapsible-content', $this->plugin_url . '/assets/js/sensei-collapsible-content.js', array( 'jquery' ), '1.0.0', true );
+		wp_enqueue_script( 'sensei-collapsible-content', $this->plugin_url . '/assets/js/sensei-collapsible-content.js', array( 'jquery' ), SENSEI_COLLAPSIBLE_CONTENT_VERSION, true );
 	}
 
 	/**

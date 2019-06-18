@@ -1,6 +1,6 @@
 {
   "name": "sensei-collapsible-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collapsible Content for Sensei LMS",
   "main": "gulpfile.js",
   "scripts": {

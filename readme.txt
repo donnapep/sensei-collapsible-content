@@ -1,10 +1,10 @@
 === Collapsible Content for Sensei LMS ===
 Contributors: donnapep
 Tags: online course, sensei lms
-Requires at least: 4.1
+Requires at least: 4.9
 Tested up to: 5.1
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,9 @@ Note: Collapsible Content for Sensei LMS is a replacement for Pango Sensei Modul
 2. Collapsed content on Storefront theme
 
 == Changelog ==
+
+= 1.0.1 =
+* Tweak: Add compatibility with Sensei LMS 2.1.0
 
 = 1.0.0 =
 * Initial release
