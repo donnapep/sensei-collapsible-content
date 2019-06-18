@@ -2,7 +2,7 @@
 Contributors: donnapep
 Tags: online course, sensei lms
 Requires at least: 4.9
-Tested up to: 5.1
+Tested up to: 5.2
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
