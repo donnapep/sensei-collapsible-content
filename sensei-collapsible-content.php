@@ -3,8 +3,9 @@
  * Plugin Name: Collapsible Content for Sensei LMS
  * Description: Collapse and expand content in Sensei LMS courses.
  * Version: 1.0.1
- * Tested up to: 5.4
- * Requires PHP: 5.6
+ * Requires at least: 5.4
+ * Tested up to: 5.7
+ * Requires PHP: 7.0
  * Author: Donna Peplinskie
  * Author URI: https://donnapeplinskie.com
  * Text Domain: sensei-collapsible-content
